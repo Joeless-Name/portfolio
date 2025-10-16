@@ -41,7 +41,8 @@ Includes a safe `demo_simulator.py`.
 ---
 
 ## Resume
-[Download my resume](resume.pdf)
+[Johannes Myburgh -Resume.pdf](https://github.com/user-attachments/files/22950613/Johannes.Myburgh.-Resume.pdf)
+
 
 
 ## Contact
